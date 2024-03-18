@@ -1,0 +1,26 @@
+[
+  {
+    "firstname": "super",
+    "lastname": "user",
+    "email": "super.user@gmail.com",
+    "phone": "1234657890",
+    "password": "12345",
+    "isAdmin": true
+  },
+  {
+    "firstname": "sam",
+    "lastname": "sandy",
+    "email": "sam.sandy@gmail.com",
+    "phone": "0987654321",
+    "password": "12345",
+    "isAdmin": false
+  },
+  {
+    "firstname": "super1",
+    "lastname": "user1",
+    "email": "super.user1@gmail.com",
+    "phone": "1234657890",
+    "password": "12345",
+    "isAdmin": false
+  }
+]
